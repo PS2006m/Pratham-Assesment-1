@@ -1,0 +1,4 @@
+Customer of id 23 successfully withdrew funds of 200.0 Rs
+Customer of id 23 viewed their balance
+Customer of id 23 successfully deposited funds of 1000.0 Rs
+Customer of id 23 viewed their balance

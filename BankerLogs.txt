@@ -1,0 +1,3 @@
+Banker added a customer of with customer id 23 with name adda and opening balance of 1222.0
+Banker added a customer of with customer id 55 with name fs and opening balance of 23111.0
+Banker viewed All Customers
